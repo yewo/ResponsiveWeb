@@ -17,7 +17,7 @@
 
    **让布局视口成为理想视口**
 
-![viewport视口](F:\PROJECT\viewport视口.png)
+![viewport视口](https://github.com/yewo/yewo.github.io/blob/master/doc/img/viewport视口.png)
 
 
 
@@ -25,7 +25,7 @@
 
 以下工作任务都不需要前端工程师来做，我们的事情就是根据需求和设计图，来实现页面的效果
 
-![网站开放前的工作](F:\PROJECT\网站开放前的工作.png)
+![网站开放前的工作](https://github.com/yewo/yewo.github.io/blob/master/doc/img/网站开放前的工作.png)
 
 
 
@@ -35,7 +35,7 @@
 
 以下为最终效果图
 
-![响应式网站](F:\PROJECT\响应式网站.png)
+![响应式网站](https://github.com/yewo/yewo.github.io/blob/master/doc/img/响应式网站.png)
 
 
 
@@ -52,7 +52,7 @@
 
 ![浏览器](F:\PROJECT\浏览器.png)
 
-![Chrome](F:\PROJECT\Chrome.png)
+![Chrome](https://github.com/yewo/yewo.github.io/blob/master/doc/img/Chrome.png)
 
 ##### 断点的选择
 
