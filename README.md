@@ -8,7 +8,7 @@
 
 ![响应式网站的缺点](https://raw.githubusercontent.com/yewo/ResponsiveWeb/master/doc/img/响应式网站的缺点.png)
 
-
+<br/>
 
 ### 2. viewport视口
 
@@ -19,7 +19,7 @@
 
 ![viewport视口](https://raw.githubusercontent.com/yewo/ResponsiveWeb/master/doc/img/viewport视口.png)
 
-
+<br/>
 
 ### 3. 职责
 
@@ -27,7 +27,7 @@
 
 ![网站开放前的工作](https://raw.githubusercontent.com/yewo/ResponsiveWeb/master/doc/img/网站开放前的工作.png)
 
-
+<br/>
 
 ### 4. 分析设计图
 
@@ -37,7 +37,7 @@
 
 ![响应式网站](https://raw.githubusercontent.com/yewo/ResponsiveWeb/master/doc/img/响应式网站.png)
 
-
+<br/>
 
 ### 5. 实践原则
 
